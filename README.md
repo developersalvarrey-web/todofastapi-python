@@ -43,6 +43,7 @@ Perfect for full-stack portfolio projects.
 
 # 📂 Project Structure
 
+
 python-todo-api/
 ├── app/
 │ ├── init.py
@@ -54,7 +55,6 @@ python-todo-api/
 ├── venv/ # Virtual environment (optional)
 ├── requirements.txt
 └── README.md
-
  
 
 ---
